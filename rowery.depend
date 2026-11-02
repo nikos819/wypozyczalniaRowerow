@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1793605579 source:c:\users\admin\documents\rowery\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<iomanip>
+	<string>
+
